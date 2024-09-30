@@ -9,3 +9,7 @@ Reinforce typing the correct commands in your terminal with negative behavioural
 - Go into the [bash file](https://github.com/Arxari/Linux-terminal-shock-aided-learning-tool/blob/main/bash) and copy it
 - Paste it into your .bash file
 - Set your API key and shocker ID
+##### For Fish
+- Go into the [bash file](https://github.com/Arxari/Linux-terminal-shock-aided-learning-tool/blob/main/fish) and copy it
+- Paste it into your config.fish file
+- Set your API key and shocker ID
