@@ -8,7 +8,7 @@ For the hardware you need an [OpenShock hub and shocker](https://openshock.org/)
 - Set your API key and shocker ID
 ##### For BASH
 - Go into the [bash file](https://github.com/Arxari/Linux-terminal-shock-aided-learning-tool/blob/main/bash) and copy it
-- Paste it into your .bash file
+- Paste it into your .bashrc file
 - Set your API key and shocker ID
 ##### For Fish
 - Go into the [fish file](https://github.com/Arxari/Linux-terminal-shock-aided-learning-tool/blob/main/fish) and copy it
